@@ -133,3 +133,27 @@
     width: 250px;
     border-radius: 2rem;
 }
+.fourth img{
+    width: 345px;
+    height: 200px;
+    border-radius: 10px;
+}
+.fourth{
+    display: grid;
+    background-color: #212020;
+    /* background-color: blue; */
+    padding: 10px;
+    border-radius: 10px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+.thirdheaderh1{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.thirddesch4{
+    margin-bottom: 50px;
+    text-align: center;
+    opacity: 0.6;
+}
