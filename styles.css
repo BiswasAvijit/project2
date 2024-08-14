@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.totalbody{
+    background-color: black;
+
+}
+.displayflex{
+    display: flex;
+}
+.mainclassnav{
+    justify-content: space-between;
+}
+.nav1fitness{
+    color: #E6533C;
+}
+.nav2{
+    border-radius: 50rem;
+    /* background-color: aqua; */
+    border: solid;
+    border-color: #212020;
+}
+.nav2-1{
+    background-color: #E6533C;
+    border-radius: 50rem;
+    margin-right: 10px;
+    padding: 10px;
+}
+.mainclassban3-2{
+    border-radius: 50rem;
+    padding: 10px;
+    border: 1px solid rgb(251, 251, 251);
+}
+.nav2-2{
+    padding: 10px;
+    margin-right: 10px;
+}
+.nav2-3{
+    padding: 10px;
+    margin-right: 10px;
+}
+.nav2-4{
+    padding: 10px;
+}
+.mainclassbanfirst{
+    /* check */
+    max-width: 50%;
+}
+.mainclassban1{
+    margin: 50px;
+}
+.mainclassban2{
+    margin: 50px;
+}
+.mainclassban2>p{
+    opacity: 0.7;
+}
+.mainclassbansecond{
+    /* max-height: 100px; */
+    /* check */
+    max-width: 50%;
+}
