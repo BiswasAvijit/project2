@@ -138,6 +138,10 @@
     height: 200px;
     border-radius: 10px;
 }
+.fifthfirstdesc{
+    /* max-width: 250px; */
+    width: 350px;
+}
 .fourth{
     display: grid;
     background-color: #212020;
@@ -156,4 +160,26 @@
     margin-bottom: 50px;
     text-align: center;
     opacity: 0.6;
+}
+/* .fifthfirst{
+    flex
+} */
+.fifth{
+    margin-top: 50px;
+    flex: 1;
+}
+
+.fifthfirstdesc{
+    opacity: 0.6;
+    margin-top: 20px;
+}
+.rightreservecodeh4{
+    text-align: center;
+    opacity: 0.6;
+}
+.horizontalline{
+    margin-top: 50px;
+}
+.rightreservecode{
+    margin-top: 30px;
 }
