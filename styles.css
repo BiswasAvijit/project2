@@ -66,6 +66,38 @@
     max-width: 50%;
 }
 .first{
-    background-color: aqua;
+    /* background-color: aqua; */
     margin-top: 50px;
+    margin: 0 auto;
+}
+.maxheader{
+    /* background-color:aquamarine; */
+    /* margin-left: 100px; */
+    justify-content: center;
+    margin-left: 400px;
+    margin-top: 50px;
+
+}
+.maxdesc{
+    /* background-color:aquamarine; */
+    /* margin-left: 100px; */
+    justify-content: center;
+    margin-left: 150px;
+
+    margin-top: 50px;
+    opacity: 0.6;
+}
+.card{
+    margin-top: 30px;
+    border-radius: 50%;
+}
+.cardheader{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.carddesc{
+    margin-top: 30px;
+    opacity: 0.6;
+    width: 200px;
+    text-align: center;
 }
